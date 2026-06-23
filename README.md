@@ -87,21 +87,13 @@ This project helps estimate engine health and predict the remaining cycles befor
 
 ## Visualizations
 
-### Feature Importance
+![Feature Importance](images/features_importance.png.png)
 
-![Feature Importance](images/features_importance.png)
+![Sensor 11 vs RUL](images/sensor11_vs_rul.png.png)
 
-### Sensor 11 vs RUL
+![Sensor 12 vs RUL](images/sensor12_vs_rul.png.png)
 
-![Sensor 11 vs RUL](images/sensor11_vs_rul.png)
-
-### Sensor 12 vs RUL
-
-![Sensor 12 vs RUL](images/sensor12_vs_rul.png)
-
-### Correlation Matrix
-
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/correlation_matrix.png.png)
 
 ---
 
